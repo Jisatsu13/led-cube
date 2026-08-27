@@ -1,0 +1,10 @@
+../Drivers/STM32G0xx_HAL_Driver/Inc/stm32g0xx_ll_spi.h:918:26:LL_SPI_IsActiveFlag_RXNE	2
+../Drivers/STM32G0xx_HAL_Driver/Inc/stm32g0xx_ll_spi.h:929:26:LL_SPI_IsActiveFlag_TXE	2
+../Drivers/STM32G0xx_HAL_Driver/Inc/stm32g0xx_ll_spi.h:1348:25:LL_SPI_ReceiveData8	1
+../Drivers/STM32G0xx_HAL_Driver/Inc/stm32g0xx_ll_spi.h:1359:26:LL_SPI_ReceiveData16	1
+../Drivers/STM32G0xx_HAL_Driver/Inc/stm32g0xx_ll_spi.h:1371:22:LL_SPI_TransmitData8	1
+../Drivers/STM32G0xx_HAL_Driver/Inc/stm32g0xx_ll_spi.h:1388:22:LL_SPI_TransmitData16	1
+../Core/Src/spi_help_fun.c:6:6:SPI_Send8Bits	3
+../Core/Src/spi_help_fun.c:16:6:SPI_Send16Bits	3
+../Core/Src/spi_help_fun.c:26:9:SPI_Read8Bits	3
+../Core/Src/spi_help_fun.c:37:10:SPI_Read16Bits	3
